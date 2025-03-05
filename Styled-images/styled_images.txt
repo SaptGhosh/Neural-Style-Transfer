@@ -1,0 +1,2 @@
+Classic - Classic neural style transfer
+Colored - Neural style transfer where the color of the content image is transferred to the style image
